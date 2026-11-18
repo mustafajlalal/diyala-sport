@@ -1,0 +1,6 @@
+{
+  "name": "المُحرّر الأكاديمي الذكي | Human Academic Writer",
+  "description": "أداة متخصصة في تحرير وإعادة صياغة البحوث والدراسات الأكاديمية باللغة العربية، مع الحفاظ الصارم على المصادر والاقتباسات والدقة العلمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
